@@ -1,0 +1,69 @@
+#+Setupfile: /home/cpsoz/OrgTemplates/odt-de.org
+
+* Gift-Gift
+
+in /Mélanges offerts à Charles Andler par ses amis et ses élèves/, Istra, Strasbourg, 243-247.
+
+Die zwei Bedeutungen von "Geschenk" und "Giftstoff", nach denen dieses einzigartige Wort in den verschiedenen germanischen Sprachen unterschieden wurde, scheinen so entfernt voneinander zu sein, dass die Etymologen Mühe haben, sich den Übergang von dem einen zum anderen und ihren gemeinsamen Ursprung zu erklären. Selbst das Schicksal des Wortes variiert je nach Sprache. Seine Bedeutung als Giftstoff ist fast einzig dem modernen Deutsch vorbehalten. Seine Bedeutung als Geschenk und Gabe ist allein dem Englischen vorbehalten. Das Holländische hat zwei Wörter, das eine neutral, das andere weiblich, um bei dem einen den Giftstoff, und beim zweiten das Geschenk, die Mitgift zu bezeichnen. Bei dem einen ist eine Bedeutung zusammengebrochen, bei dem anderen ist es eine andere, und die semantische Ableitung ist nirgends klar dargestellt worden. Soweit ich es sehe, steht keine befriedigende Erklärung dafür in den berühmtesten deutschen und englischen etymologischen Wörterbüchern, dem Murray und dem Kluge.[fn:1] Doch müssen sich die wichtigen Bemerkungen von Herrn Hirt bezüglich des deutschen Wortes /gift/ gemerkt werden.[fn:2] Tatsächlich liegt es auf der Hand, dass /gift/ als "Giftstoff" ein Euphemismus ist, und dass dies aus einer Tabuisierung eines Wortes entsteht, das man zu gebrauchen fürchtet: Sowie im Lateinischen /venenum/ /*venesnom/: "Liebestrank" entspricht. Aber wieso wurden das Wort /gift/ und die Idee der Gabe, die es hervorruft, als Symbole des Giftstoffes ausgewählt? Das ist es, was erklärt werden muss,
+
+Dem Soziologen und dem Historiker des germanischen Rechts bietet der Zusammenhang der Bedeutungen jedoch keine Schwierigkeit.
+
+Um das Thema zu beleuchten, verzeihe man uns, einige Prinzipien zu erwähnen, die noch zu wenig allgemeinverständlich dargestellt worden sind und von neuem erklärt werden müssen.
+
+**
+
+In der germanischen Welt wurde das soziale System, das ich "System der totalen Leistungen" zu benennen vorgeschlagen habe, zu einem hohen Grad entwickelt. In diesem nicht nur juristischen und politischen, sondern auch ökonomischen und religiösen System verbinden sich die Clans und die Familien miteinander mittels fortwährender Leistungen und Gegenleistungen aller Art, diese bestehen für gewöhnlich aus kostenlosen, religiösen oder anderen Gaben und Diensten.[fn:3]
+
+Nachdem lange Zeit geglaubt wurde, dass dieses System nur in den rückständigen Gesellschaften sehr weit verbreitet war, stellen wir seine Existenz jetzt in einem großen Teil der alten Rechte europäischer Gesellschaften fest.[fn:4] Besonders die Gruppen, aus denen die alten germanischen Gesellschaften zusammengesetzt sind, verbinden sich miteinander durch Hochzeiten, durch Schwiegertöchter und Schwiegersöhne, durch Kinder mütterlicherseits und väterlicherseits, durch Neffen, Vettern, durch den Großvater und Enkelkinder, die bei den einen und den anderen aufgewachsen, von den einen und den anderen ernährt, bedient worden sind,[fn:5] usw. -- durch die Militärdienste und die Initiationen, die Inthronisierungen und die Festessen, die sie verursachten; -- durch die Gestorbenen, das Beerdigungsessen und die Erbschaft, die Profite, die Rückkehr der Gabe, die sie verursachten; -- durch kostenlose Gabe, durch erwiderte oder zu erwidernde Darlehen. Es ist ein unaufhörlicher Kreislauf von Gütern und vermischten Personen, von permanenten und temporären Diensten, von gegebenen, erwiderten und zu erwidernden Ehren und Festen; ja, so muss man sich einen großen Teil des sozialen Lebens alter Völker aus Germanien und Skandinavien vorstellen.
+
+Andere europäische Gesellschaften, wie z.B. die Kelten, haben insbesondere andere Elemente von diesen Riten und von diesen alten Rechten entwickelt. Das Thema der Rivalität, der Einzel-Kampf, der mit einem übertriebenen Aufwand einhergehende Wettstreit, dieses Thema der Herausforderungen und der Turniere wurde sozusagen in gallischen, walisischen und irischen Ländern in höchstem Grade ausgeschöpft.[fn:6] Diese Gesellschaften praktizieren deutlich diese Form von agonistischen totalen Leistungen, denen wir den Namen "potlatch" zu geben vorgeschlagen haben, der aus dem Chinook und aus dem Sabir der Händler und der amerikanischen Indianer stammt, und auf dessen juristischen Aspekt Herr Davy aufmerksam gemacht hat.[fn:7] Man weiß, dass die Formen im amerikanischen Nord-Osten und in Melanesien weit entwickelt worden sind. Der potlatch selbst ist auch den Sitten der alten Germanen und Skandinavier nicht fremd.
+
+Aber was bei ihnen noch interessanter zu analysieren ist, ist die Gabe, das Pfand. In der Tat zeigt sich dort die /Gabe/, die oder das /gift/, das Geschenk (le présent) besonders entwickelt, sichtbarer als in anderen Gesellschaftstypen, insbesondere als in anderen indisch-europäischen Gesellschaften. Besonders das Deutsche enthält eine extrem breite Skala von Wörtern und von zusammengesetzten Wörtern, um allerlei Nuancen von /Gabe/ und /Mitgift/ bis /Morgengabe/, /Liebesgabe/, /Abgabe/ und bis zur merkwürdigen /Trotzgabe/ auszudrücken.
+
+**
+
+Jedoch entstehen diese Austauschprozesse und diese Gaben von Dingen, die die Personen miteinander verbinden, in all diesen zahlreichen Gesellschaften, in allerlei Stufen des Zivilisationsgrades, besonders im Maori Recht, aus einem gemeinsamen Fundus von Ideen: Das Ding, das als Gabe bekommen wurde, das erworbene Ding im Allgemeinen verbindet den Geber und den Erwerber magisch, religiös, moralisch, juristisch miteinander. Es kommt von einem, der es fabriziert oder sich angeeignet hat, es ist von ihm, es gibt ihm eine Macht über den anderen, der es annimmt. Sollte die gegebene Leistung nicht in der vorgesehenen juristischen, wirtschaftlichen oder rituellen Form erwidert werden, dann kann der Geber den erpressen, der am Festessen teilgenommen hat, der die Tochter geheiratet hat, oder der sich mit jemanden durch Blut verbunden hat, der Begünstigte, der zu Hause ein von der ganzen Macht des Gebers verzaubertes Ding gebraucht.
+
+Die Verankerung dieser Ideen ist besonders deutlich in den germanischen Rechten und Sprachen, und man sieht ohne Schwierigkeit, wie die zwei Bedeutungen des Wortes /gift/ darin zu finden sind. In der Tat ist die typische Leistung bei den alten Germanen und Skandinaviern die Gabe des Getränks,[fn:8] des Bieres; im Deutschen ist das Geschenk überhaupt das,[fn:9] was gegossen wird (/Geschenk/, /Gegengeschenk/). Unnötig, eine sehr große Anzahl der Themen des deutschen Rechts und der deutschen Mythologie zu erwähnen. Denn man sieht es: Nirgends war die Unsicherheit bezüglich der guten oder bösen Natur der Geschenke größer als in Bräuchen dieser Art, wo die Gaben wesentlich nur aus Getränken bestehen, die gemeinsam als gegebene oder zu erwidernde Trankopfer getrunken wurden. Das Getränk-Geschenk kann Giftstoff sein; normalerweise und außer in düsteren Dramen ist es das nicht; aber es kann dies immer werden. Es ist auf jeden Fall immer ein Zauber (das Wort gift hat diese Bedeutung im Englischen behalten), der die Kommunizierenden je miteinander verbindet, und der sich immer gegen einen von den beiden wenden kann, wenn er sich dem Recht entzieht. Die Sinnverwandtschaft, die gift-Geschenk mit gift-Giftstoff verbindet, ist dann leicht zu erklären und natürlich.
+
+Außerdem gibt es andere Wörter, die zu diesem Rechtssystem gehören, die diese Doppeldeutigkeit, im germanischen Land, gleichermaßen haben. Das Pfand, im alten Recht, entsprach auch diesem gegenseitigen Zauber. In einem klassischen Beitrag hat damals Herr Huvelin vermutet,[fn:10] dass der Ursprung des rechtlichen Bundes, vergleichbar mit dem lateinischen nexum, in diesem magischen Austausch liege. Präzisieren wir. Der Pfandgegenstand, wage, /-wadium/, /vadi/, der den Herrn und den Knecht, den Darlehensgeber und den Schuldner, den Käufer und den Verkäufer verbindet, ist das magische und doppeldeutige Ding. Es ist zugleich gut und gefährlich. Es wird zu den Füßen des Vertragspartners in einer Geste geworfen, die das Vertrauen und die Vorsichtigkeit, das Misstrauen und die Herausforderung zugleich zeigt. Merkwürdig ist, dass dies noch immer die feierlichste Austauschweise unter den mutigen Seefahrern und Händlern der melanesischen Inseln Trobriands ist.[fn:11] Darum sagt man noch immer im Englischen: /throw the gage/ für den Fehdehandschuhe zuwerfen.
+
+Übrigens sind all diese Ideen zweideutig. In anderen indo-europäischen Sprachen ist es der Begriff Giftstoff, der unbestimmt ist. Kluge und die Etymologen dürfen die Reihe /potio/ "Giftstoff" mit /gift/, /gift/ vergleichen. Man kann noch immer mit Interesse die schöne Diskussion von Aulu-Gelle[fn:12] über die Doppeldeutigkeit des griechischen φáρμακον und des lateinischen /venenum/ lesen. Denn die /Lex Cornelia de Sicariis et Veneficis/, von der Cicero uns glücklicherweise die "Rezitation" selbst erhalten hat, spezifiziert überdies /venenum malum/.[fn:13] Das magische Gebräu der delikate Zauber[fn:14] kann gut oder böse sein. Das griechische Φθτρον ist auch nicht unbedingt ein unheimlicher Begriff, und das Freundschaftsgetränk, der Liebestrank, ist nur gefährlich, wenn der Zauberer es will.
+
+**
+
+Diese Schlussfolgerungen sind nur eine technische und philologische Entwicklung hinsichtlich einer einzigen Tatsache, die erst später erwähnt werden wird. Denn sie gehört zu einem Ensemble von Beobachtungen, die von allerlei Arten von Rechten, Zaubern, Religionen und Ökonomien, allerlei Gesellschaftsarten, von den Melanesiern und Polynesiern und Nordamerikanern bis hin zu unserer Moral, gemacht wurden. Zu diesem Thema und ohne den Bereich der Germanisten zu verlassen, kann auch noch daran erinnert werden, dass ein Essay von Emerson: /On Gifts and Presents/[fn:15] den Reiz und die Unannehmlichkeit betont, die wir immer noch empfinden, wenn wir Geschenke bekommen.
+
+Die Darstellung all dieser Tatsachen wird in einer Arbeit über "die Verpflichtung, die Geschenke zurück zu geben" gefunden werden, die im ersten Heft der neuen Reihe der /Année sociologique/ veröffentlicht wird.
+
+* Footnotes
+
+[fn:1] Kluge ahnt, dass was für diese Wörter geschehen ist, auch für vergeben, vergiften geschah. /Etymol. Wörterb./, 1915, p.117.
+
+[fn:2] /Etymol. d. neuhochd. Sprache/, 1909, p. 297. Die Annäherung durch Hirt an die Reihe: got, /lubja/, vha, /luppi/ „Liebe-Zaubertrank“ ist auch interessant und begründet.
+
+[fn:3] Zu einer summarischen Übersicht im Hinblick auf diese Fragen, vgl. Davy, /Eléments de sociologie/, I, p. 156f.
+
+[fn:4] Mauss, „Une forme archaique de contrat chez les Thraces“, /Rev. des études grecques/, 1921.
+
+[fn:5] Ich spiele hier auf „fosterage“ und auf andere Sitten gleicher Art an.
+
+[fn:6] Im nächsten Heft der /Revue celtique/ erscheinen Notizen darüber von Herrn Hubert und Herrn Mauss.
+
+[fn:7] /La foi jurée/. (/Travaux de l‘Année sociologique/).
+
+[fn:8] Von Amira, /Nordgermanisches Obligationenrecht/, Il, 362, 363, und vor allem Maurice Cahen, /La libation, Et. s. le vocabul. religieux/, usw., S. 58, usw.
+
+[fn:9] Der Vollständigkeit halber sollten auch die „Güter der Ehefrau“ erwähnt werden, die der Mann seiner Frau gibt, und von denen Tacitus das Zirkulieren zwischen den Familien, /Germanie/, 18 (in einem oft missverstandenen Satz, der aber völlig klar ist) beschreibt.
+
+[fn:10] „Magie et droit individuel“, /Année sociologique/ 10, S. 30f.
+
+[fn:11] V.B. Malinowski, /Argonauts of the Western Pacific/, Londres, 1922, S. 473, und insbesondere die schönen Photographien, S. LXI, LXII und Titelbild.
+
+[fn:12] 12,9 der zu Recht Homer zitiert.
+
+[fn:13] /Pro Cluentio/, 148. Im Digeste ist noch vorgeschrieben, zu präzisieren, über welches „venenum“, „bonum, sive malum“ es sich handelt.
+
+[fn:14] Falls die Etymologie, die /venenum/ (v. Walde. /Lat. étymol. Wört./, ad. Verb.) mit /Venus/ und mit skr. /van/, /vanati/ vergleicht, exakt ist, was sie wahrscheinlich ist.
+
+[fn:15] /Essays/, vgl. die zweite Reihe.
