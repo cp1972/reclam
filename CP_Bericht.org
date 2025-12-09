@@ -175,7 +175,7 @@ Viele seiner Studierenden und Freunde, die ins Ausland geflüchtet sind, kehren 
 
 * Bibliographie
 
-#+cite_export: csl /home/cpsoz/OrgCSL/chicago-author-date.csl
+#+cite_export: csl /home/cpsoz/Github/reclam/chicago-author-date-custom.csl
 #+print_bibliography:
 
 * Footnotes
